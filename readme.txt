@@ -1,2 +1,3 @@
-git is a power one.
-readme is a first text. 
+git a power one.
+readme if is a first text. 
+
